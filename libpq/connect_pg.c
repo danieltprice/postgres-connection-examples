@@ -12,7 +12,7 @@ int main() {
     PGresult   *res;
 
     /* Specify the connection string */
-    const char *conninfo = "postgres://dtprice:z4Ro9EetpmlM@ep-autumn-voice-196875.us-east-2.aws.neon.tech/neondb";
+    const char *conninfo = "postgres://<user>:<password>@ep-autumn-voice-196875.us-east-2.aws.neon.tech/neondb";
 
     /* Make a connection to the database */
     conn = PQconnectdb(conninfo);
