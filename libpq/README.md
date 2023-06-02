@@ -30,7 +30,7 @@ git clone https://github.com/<your_username>/postgresql-connection-examples.git
 2. Navigate to the directory:
 
 ```bash
-cd postgresql-connection-examples
+cd postgresql-connection-examples/libpq
 ```
 
 3. Compile the C program:
