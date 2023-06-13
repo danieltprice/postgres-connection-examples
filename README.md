@@ -1,5 +1,7 @@
 # PostgreSQL Connection Examples
 
+NOTE: This project is still a work in progress.
+
 This repository provides examples of how to connect to a PostgreSQL database using various technologies and languages. 
 
 ## License
