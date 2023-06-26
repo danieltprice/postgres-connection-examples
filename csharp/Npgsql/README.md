@@ -27,6 +27,7 @@ cd postgresql-connection-examples/csharp
 
 ```bash
 dotnet new console -n PostgresConnection
+```
 
 4. Navigate to the newly created project:
 
